@@ -17,7 +17,7 @@
         }
     ],
     "extra":{
-	"magento-root-dir": "magento/",
+	"magento-root-dir": "/Users/davide/testcomposer/",
         "include-root-package": true
     }
 
