@@ -9,9 +9,5 @@
             "name": "ProcessKiller",
             "email": ""
         }
-    ],
-    "extra":{
-        "magento-root-dir":"/Users/davide/testcomposer/magento/",
-        "include-root-package": true
-    }
+    ]
 }
