@@ -10,7 +10,7 @@
         <helpers>
             <mioplugin_writecookielogin>
                 <class>MioPlugin_Writecookielogin_Helper</class>
-            </dmail_writecookielogin>
+            </mioplugin_writecookielogin>
         </helpers>
         <!-- ... -->
     </global>
