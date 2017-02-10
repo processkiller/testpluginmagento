@@ -4,12 +4,6 @@
     "type":"magento-module",
     "minimum-stability":"dev",
     "homepage":"https://github.com/processkiller/testpluginmagento",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/processkiller/testpluginmagento.git"
-        }
-    ],
     "authors":[
         {
             "name": "ProcessKiller",
