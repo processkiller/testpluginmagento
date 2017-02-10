@@ -1,6 +1,6 @@
 <?php
 
-aaaaaaaaaaaaaaaaaaaaaaaa
+STAGING
 require_once 'Mage/Customer/controllers/AccountController.php';
 
 class MioPlugin_Writecookielogin_AccountController extends Mage_Customer_AccountController
