@@ -1,0 +1,23 @@
+{
+    "name":"processkiller/testpluginmagento",
+    "description":"estesione per test magento composer",
+    "type":"magento-module",
+    "homepage":"https://github.com/processkiller/testpluginmagento",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/processkiller/testpluginmagento.git"
+        }
+    ],
+    "authors":[
+        {
+            "name": "ProcessKiller",
+            "email": ""
+        }
+    ],
+    "extra":{
+	"magento-root-dir": "magento/",
+        "include-root-package": true
+    }
+
+}
