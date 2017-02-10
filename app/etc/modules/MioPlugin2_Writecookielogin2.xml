@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <MioPlugin2_Writecookielogin2>
+            <active>true</active>
+            <codePool>local</codePool>
+        </MioPlugin2_Writecookielogin2>
+    </modules>
+</config>

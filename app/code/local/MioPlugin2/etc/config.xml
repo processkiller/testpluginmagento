@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MioPlugin2_Writecookielogin2>
+            <version>0.0.1</version>    <!-- Version number of your module -->
+        </MioPlugin2_Writecookielogin2>
+    </modules>
+    <global>
+        <!-- ... -->
+        <helpers>
+            <mioplugin2_writecookielogin2>
+                <class>MioPlugin2_Writecookielogin2_Helper</class>
+            </mioplugin2_writecookielogin2>
+        </helpers>
+        <!-- ... -->
+    </global>
+    <frontend>
+        <routers>
+            <customer>
+                <args>
+                    <modules>
+                        <MioPlugin2_Writecookielogin2 before="Mage_Customer">MioPlugin2_Writecookielogin2</MioPlugin2_Writecookielogin2>
+                    </modules>
+                </args>
+            </customer>
+        </routers>
+    </frontend>
+</config>
