@@ -2,6 +2,7 @@
     "name":"processkiller/testpluginmagento",
     "description":"estesione per test magento composer",
     "type":"magento-module",
+    "minimum-stability":"dev",
     "homepage":"https://github.com/processkiller/testpluginmagento",
     "repositories": [
         {
